@@ -53,5 +53,13 @@
         "address": "987, MNO Street, UVW City",
         "aadharCardNumber": 678901234567,
         "password": "password789"
+    },
+    {
+        "name":"Ram Sagar",
+        "age":42,
+        "mobile":"2315387980",
+        "email":"Sagar@example.com",
+        "aadharCardNumber":231223459808,
+        "password":"sagar234"
     }
 ]
