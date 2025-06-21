@@ -61,5 +61,13 @@
         "email":"Sagar@example.com",
         "aadharCardNumber":231223459808,
         "password":"sagar234"
+    },
+    {
+        "name":"Sagar",
+        "age":23,
+        "mobile":"452342435432",
+        "email":"sagar1@example.com",
+        "aadharCardNumber":123456788765,
+        "password":"sagar123"
     }
 ]
